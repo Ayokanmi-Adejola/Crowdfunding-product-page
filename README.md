@@ -27,6 +27,10 @@ The challenge was to build a responsive crowdfunding product page that allows us
 -   **Bookmark Functionality**: Users can bookmark the project, and the state is saved.
 -   **Form Validation**: Basic validation on pledge inputs.
 
+| Desktop View | Mobile View |
+| ------- | ------ |
+|<img width="1440" height="2158" alt="image" src="https://github.com/user-attachments/assets/ae1716be-151d-4bdf-992c-e698a55d51b0" />|<img width="375" height="2719" alt="image" src="https://github.com/user-attachments/assets/7c1cfeb4-103c-426a-ba73-05bfc7d4f5d4" />|
+
 ## My Process
 
 ### Built With
@@ -81,4 +85,4 @@ Simply open the `index.html` file in your web browser to view the project.
 ## Acknowledgments
 
 -   A big thank you to [Frontend Mentor](https://www.frontendmentor.io) for providing this challenge.
--   The design assets and specifications were provided as part of the challenge.# Crowdfunding-product-page
+-   The design assets and specifications were provided as part of the challenge
