@@ -4,21 +4,6 @@
 
 A responsive crowdfunding product page built with HTML, CSS, and JavaScript. This project is a solution to the [Crowdfunding product page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/crowdfunding-product-page-7uvcZe7ZR).
 
-## Table of Contents
-
-- [Overview](#overview)
-  - [The Challenge](#the-challenge)
-  - [Links](#links)
-- [Features](#features)
-- [My Process](#my-process)
-  - [Built With](#built-with)
-  - [What I Learned](#what-i-learned)
-  - [Continued Development](#continued-development)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
 ## Overview
 
 ### The Challenge
